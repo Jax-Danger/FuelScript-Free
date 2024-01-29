@@ -1,0 +1,4 @@
+
+node_modules/*
+packages/resource/node_modules/.bin/esbuild
+packages/resource/node_modules/.bin/esbuild.cmd
