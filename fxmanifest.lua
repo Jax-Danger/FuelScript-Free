@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'JEFFe'
-description 'ts react prettier eslint fivem'
-version '1.0.0'
+author 'JaxDanger'
+description 'Advanced Fuel Script for FiveM using Typescript and React'
+version '0.0'
 
 client_script 'packages/resource/dist/client.js'
 
