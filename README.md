@@ -9,3 +9,10 @@ The config file can be found in /FuelScript/packages/resource/shared
 * Rename script to "FuelScript"
 * ensure FuelScript in server.cfg
 * Restart Server
+
+
+# IMPORTANT INFO
+* Don't sell this script.
+* Script is not open source, but if you need something changed/updated/fixed, make a PR request.
+* Do not change the author or description in fxmanifest.
+* Give credit where credit is due.
